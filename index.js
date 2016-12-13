@@ -1,6 +1,8 @@
+module.exports.onWindow = browserWindow => browserWindow.setVibrancy('dark');
+
 'use strict';
 const foregroundColor = '#eff0eb';
-const backgroundColor = '#282a36';
+const backgroundColor = 'rgba(40, 42, 54, .5)';
 const red = '#ff5c57';
 const green = '#5af78e';
 const yellow = '#f3f99d';
