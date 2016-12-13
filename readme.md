@@ -1,3 +1,7 @@
+# added vibrancy
+
+![](https://puu.sh/sOyRT/39cf9c5146.png)
+
 # hyper-snazzy
 
 > Elegant [Hyper](https://hyper.is) theme with bright colors
